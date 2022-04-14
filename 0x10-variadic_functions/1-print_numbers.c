@@ -30,8 +30,3 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	}
 	printf("\n");
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
