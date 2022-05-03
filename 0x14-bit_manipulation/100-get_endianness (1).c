@@ -11,7 +11,3 @@ int get_endianness(void)
 
 	return (*c);
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 1b1ffefffcc6f6e2aa33c40023818ff1e5ab5315
